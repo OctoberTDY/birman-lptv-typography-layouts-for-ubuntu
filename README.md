@@ -1,4 +1,5 @@
 # Currently WIP, nothing to see here
+Todo: update install for 24.04, add no shift comma alternative version, update to Birman's 3.7.
 
 # Типографская раскладка Ильи Бирмана для Ubuntu
 
