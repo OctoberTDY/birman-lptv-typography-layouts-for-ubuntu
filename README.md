@@ -1,3 +1,5 @@
+# Currently WIP, nothing to see here
+
 # Типографская раскладка Ильи Бирмана для Ubuntu
 
 Этот репозиторий содержит адаптацию русской и английской [типографской раскладки Ильи Бирмана](http://ilyabirman.ru/projects/typography-layout/) версии 3.4 для Ubuntu.
